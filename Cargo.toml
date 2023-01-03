@@ -3,6 +3,8 @@ name = "selectoor"
 description = "An easy-to-use CLI tool to generate optimal function selectors for Solidity smart contracts"
 version = "0.1.0"
 authors = ["Adithya Narayan <adithyanarayan@skiff.com>"]
+repository = "https://github.com/adithyanarayan/selectoor"
+license = "MIT OR Apache-2.0"
 edition = "2021"
 
 [dependencies]
