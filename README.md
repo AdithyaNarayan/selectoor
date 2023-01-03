@@ -6,7 +6,9 @@ Selectoor is a CLI tool that generates optimal function names so that the solidi
 
 ## Installation
 
-To install this tool, first clone the repository.
+This CLI application has been uploaded to `crates.io`. To install, run `cargo install selectoor`.
+
+To build and install this tool from source, first clone the repository.
 
 ```shell
 git clone git@github.com:AdithyaNarayan/selectoor.git
